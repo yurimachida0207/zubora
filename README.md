@@ -14,7 +14,7 @@ LineのBot機能を使用したアプリ制作を学びたかった。
 Bot機能とAPIを組み合わせた機能に挑戦した。
 
 ## DEMO
-![zubora2のQRL](2020-08-23 11.57.33.png)
+![zubora2のQR](./images/images/line_QR.png)
 
 ## 今後実装したい機能
 楽天のAPIを導入しレシピ検索できる
