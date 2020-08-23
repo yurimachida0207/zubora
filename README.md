@@ -15,6 +15,7 @@ Bot機能とAPIを組み合わせた機能に挑戦した。
 
 ## DEMO
 ![zubora2のQR](./line_QR.png)
+![コールバック機能トーク例](./line_toke.png)
 
 ## 今後実装したい機能
 楽天のAPIを導入しレシピ検索できる
